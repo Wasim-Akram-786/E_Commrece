@@ -1,2 +1,3 @@
- import pytest
- import selenium
+
+import pytest
+import selenium
